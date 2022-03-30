@@ -8,7 +8,7 @@ public class Pez extends Mascota{
 	}
 	
 	public void MandarMensaje() {
-		System.out.println("Soy " + this.getNombre() + " y maúllo");
+		System.out.println("Soy " + this.getNombre() + " Glop Glop");
 	}
 
 }
