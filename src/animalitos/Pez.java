@@ -3,6 +3,7 @@ package animalitos;
 public class Pez extends Mascota {
 	
 	private String raza;
+	private String tipoAgua;
 
 	public Pez(String nombre, String raza) {
 		super(nombre);
