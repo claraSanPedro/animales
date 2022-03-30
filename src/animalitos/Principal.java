@@ -12,7 +12,7 @@ public class Principal {
 		miPerro.MandarMensaje();
 		miGato.MandarMensaje();
 		miTortuga.MandarMensaje();
-
+		miPez.MandarMensaje();
 	
 
 	}
