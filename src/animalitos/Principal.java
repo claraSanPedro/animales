@@ -8,12 +8,18 @@ public class Principal {
 		Gato miGato=new Gato("Lily","Siamés");
 		Tortuga miTortuga=new Tortuga("Steven","Plana");
 		
+	
+		
 		miPerro.MandarMensaje();
 		miGato.MandarMensaje();
 		miTortuga.MandarMensaje();
 
-	
-
+		
+		Pez miPez=new Pez("Benito", "Salada");
+		
+		miPez.MandarMensaje();
+		
+		
 	}
 
 }
