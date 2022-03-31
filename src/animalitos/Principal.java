@@ -7,10 +7,12 @@ public class Principal {
 		Perro miPerro=new Perro("Lemmy","Braco");
 		Gato miGato=new Gato("Lily","Siamés");
 		Tortuga miTortuga=new Tortuga("Steven","Plana");
+		Pez darwin= new Pez("Darwin");
 		
 		miPerro.MandarMensaje();
 		miGato.MandarMensaje();
 		miTortuga.MandarMensaje();
+		darwin.MandarMensaje();
 
 	
 
